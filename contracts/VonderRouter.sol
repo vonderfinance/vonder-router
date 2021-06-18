@@ -469,7 +469,8 @@ library VonderLibrary {
                         hex"ff",
                         factory,
                         keccak256(abi.encodePacked(token0, token1)),
-                        hex"f1d77ba4cb681341af63066d44297a59a8962ec4fe422a20eca5077dca88cef9" // init code hash
+                        // hex"f1d77ba4cb681341af63066d44297a59a8962ec4fe422a20eca5077dca88cef9" // init code hash
+                        hex"360266e72ad69901f94a640e570b6cfd30586257970debd64ce628e55235477c" // init code
                     )
                 )
             )
