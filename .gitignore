@@ -13,3 +13,5 @@ coverage.json
 .secret
 /migrations/
 
+.log
+
